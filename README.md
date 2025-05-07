@@ -1,6 +1,12 @@
 ## tmux sessionizer
 its a script that does everything awesome at all times
 
+## Install
+
+```bash
+cp tmux-sessionizer ~/.local/bin/
+```
+
 ## Usage
 ```bash
 tmux-sessionizer [<partial name of session>]
